@@ -1,0 +1,18 @@
+{
+  "wheel_id": 92,
+  "structure": "umbrella",
+  "slug": "ballaratmortgagebroker-151",
+  "project": "home-loans-ballarat-b-151",
+  "parent_t1_ref": "ballaratmortgagebroker-001",
+  "node_role": "buffer",
+  "money_target": "ballaratmortgagebroker.com.au",
+  "primary_kw": "home loans ballarat",
+  "intended_url": "https://aumedia.neocities.org/home-loans-ballarat-b-151/index.html",
+  "links": [
+    {
+      "target_url": "https://home-loans-ballarat.surge.sh/",
+      "anchor": "home loans ballarat",
+      "rel": "follow"
+    }
+  ]
+}
